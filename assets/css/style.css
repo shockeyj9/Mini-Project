@@ -1,0 +1,12 @@
+*{
+    color: white;
+}
+body{
+    background-image: url(../images/jez-timms-8muUTAmcWU4-unsplash.jpg);
+}
+
+header,
+footer{
+
+    font-size: 50px;
+}
